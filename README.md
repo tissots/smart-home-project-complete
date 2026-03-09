@@ -76,7 +76,7 @@ smart-home-esp32/
 ```
 
 ---
-![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/1000145300-01.jpeg)
+![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/1000145288-01.jpeg)
 
 ## Setup & Deployment
 
