@@ -146,7 +146,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Links
 
-- [Demo Video](LINK_TO_YOUR_VIDEO)
+- [Demo Video](https://youtu.be/RjrOmpDnStI)
 - [Blynk App Template](blynk-config/template.json)
 - [Node-RED Flow](nodered/flow.json)
 - [Hardware Wiring Diagram]([docs/hardware-wiring-diagram.md](https://github.com/tissots/smart-home-project-complete/blob/main/diy%20smart%20home.PNG))
