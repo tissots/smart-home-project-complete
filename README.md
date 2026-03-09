@@ -24,6 +24,8 @@ Key features include:
 
 ---
 
+![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/1000145300-01.jpeg)
+
 ## Components & Hardware
 
 | Component | Quantity | Notes |
@@ -42,6 +44,7 @@ Key features include:
 Wiring diagrams are available in [`docs/hardware-wiring-diagram.md`](docs/hardware-wiring-diagram.md).
 
 ---
+![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/diy%20smart%20home.PNG)
 
 ## Repository Structure
 
@@ -73,6 +76,7 @@ smart-home-esp32/
 ```
 
 ---
+![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/1000145300-01.jpeg)
 
 ## Setup & Deployment
 
@@ -84,6 +88,7 @@ Clone the repository:
 git clone https://github.com/YOUR_USERNAME/smart-home-esp32.git
 cd smart-home-esp32/firmware
 ```
+![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/1000145287-01.jpeg)
 
 Open `main.ino` (or the `src/` directory) in PlatformIO or Arduino IDE.
 
@@ -122,6 +127,8 @@ Full details are available in [`docs/mqtt-topic-architecture.md`](docs/mqtt-topi
 | `smarthome/esp32/event` | Events such as motion, RFID, and party mode |
 
 ---
+
+![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/node.PNG)
 
 ## Usage
 
