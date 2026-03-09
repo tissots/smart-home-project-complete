@@ -116,6 +116,8 @@ Screenshots are located in `docs/media/images/` and demo videos in `docs/media/v
 
 ---
 
+![image alt](https://github.com/tissots/smart-home-project-complete/blob/main/1000145289-01.jpeg)
+
 ## MQTT Architecture
 
 Full details are available in [`docs/mqtt-topic-architecture.md`](docs/mqtt-topic-architecture.md). Key topics:
